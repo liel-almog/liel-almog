@@ -20,4 +20,4 @@ I build backends, tame cloud platforms, chase race conditions, and occasionally 
 
 > I like my infrastructure powerful, predictable, and boring—in the best possible way.
 
-[See what I'm building →](https://github.com/liel-almog?tab=repositories)
+[See what I'm building →](https://github.com/liel-almog?tab=repositories) Or [my website](https://lielalmog.com)
